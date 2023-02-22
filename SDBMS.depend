@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1570885903 source:c:\users\hp\desktop\sdbms\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DBMS.h"
+	"Functions.h"
+
+1570727282 c:\users\hp\desktop\sdbms\dbms.h
+
+1570779462 c:\users\hp\desktop\sdbms\functions.h
+
+1570885903 source:c:\users\hp\desktop\sdbms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DBMS.h"
+	"Functions.h"
+
+1570886145 source:c:\users\hp\desktop\syed hassnain kazmi (mini project 1)\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DBMS.h"
+	"Functions.h"
+
+1570727282 c:\users\hp\desktop\syed hassnain kazmi (mini project 1)\dbms.h
+
+1570779462 c:\users\hp\desktop\syed hassnain kazmi (mini project 1)\functions.h
+
+1570914491 source:c:\users\hp\desktop\syed hassnain kazmi (mini project 1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DBMS.h"
+	"Functions.h"
+
+1577521557 source:c:\users\hp\desktop\semester 3\data structures and algorithms\assignments\syed hassnain kazmi (mini project 1)\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DBMS.h"
+	"Functions.h"
+
+1570727282 c:\users\hp\desktop\semester 3\data structures and algorithms\assignments\syed hassnain kazmi (mini project 1)\dbms.h
+
+1570779462 c:\users\hp\desktop\semester 3\data structures and algorithms\assignments\syed hassnain kazmi (mini project 1)\functions.h
+
+1570914491 source:c:\users\hp\desktop\semester 3\data structures and algorithms\assignments\syed hassnain kazmi (mini project 1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DBMS.h"
+	"Functions.h"
+
